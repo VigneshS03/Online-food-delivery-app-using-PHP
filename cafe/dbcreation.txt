@@ -1,0 +1,6 @@
+/*use this code for creating the database*/
+CREATE DATABASE cafe DEFAULT CHARACTER SET utf8 ;
+
+GRANT ALL ON cafe.* TO 'fred'@'localhost' IDENTIFIED BY 'zap';
+GRANT ALL ON cafe.* TO 'fred'@'127.0.0.1' IDENTIFIED BY 'zap';
+

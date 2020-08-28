@@ -1,0 +1,51 @@
+html,
+body{
+height: 100%
+}
+
+#title
+{
+padding-top: 10px;
+padding-left: 100px;
+}
+
+#navbarcontent
+{
+padding-left:800px;
+}
+
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 25rem;
+
+}
+.carousel-item {
+  height: 25rem;
+ 
+}
+
+.carousel
+{
+margin-bottom: 1rem;
+}
+
+#name
+{
+font-family: 'Great Vibes';
+font-size: 50px;
+
+}
+
+
+
+.card
+{
+margin-left: 3rem;
+
+}
+
+
+

@@ -1,0 +1,17 @@
+html,
+body{
+height: 100%
+}
+
+#title
+{
+padding-top: 10px;
+padding-left: 100px;
+}
+
+#navbarcontent
+{
+padding-left:800px;
+}
+
+
